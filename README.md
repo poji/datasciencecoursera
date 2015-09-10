@@ -1,2 +1,6 @@
-# datasciencecoursera
-repo for the coursera Data scientist course
+# Data Science / Coursera Course
+
+This is a simple repository for the coursera Data scientist course.
+
+Poji
+
